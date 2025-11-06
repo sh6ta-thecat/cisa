@@ -43,4 +43,4 @@ Un **administrador** (por ejemplo, el **coordinador académico**) tendrá acceso
 ## ⚙️ Instalación y Configuración
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/cisa.git
+   git clone https://github.com/sh6ta-thecat/cisa.git
